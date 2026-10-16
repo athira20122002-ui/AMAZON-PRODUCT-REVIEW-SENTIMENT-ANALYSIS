@@ -167,7 +167,3 @@ This project is inspired by the following tutorial:
 **Athira Mohan**
 
 If you find this project useful, consider giving the repository a ⭐ on GitHub.
-
-
-
-If you find this project useful, consider giving the repository a ⭐ on GitHub.
